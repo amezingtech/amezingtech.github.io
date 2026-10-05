@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.amezingtech.onlinemba",
+    "sha256_cert_fingerprints": ["3E:DB:AD:90:3E:82:0A:5B:2F:DB:C2:A4:C1:1B:A2:E6:DE:78:30:38:AD:96:14:17:E1:E0:2B:86:D3:A0:DA:79"]
+  }
+}]
